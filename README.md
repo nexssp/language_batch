@@ -1,14 +1,8 @@
-# Nim for Nexss Programmer 2.0
+# Batch for Nexss Programmer 2.0
 
-Nim implementation for Nexss Programmer.
-
-## Templates
-
-```sh
-
-```
+.bat implementation for Nexss Programmer
 
 ## Links
 
-[Nimble - The Nim Package Manager](https://github.com/nim-lang/nimble)
-[Nim by Example](https://nim-by-example.github.io)
+<https://www.robvanderwoude.com/batexamples.php>  
+<http://www.trytoprogram.com/batch-file-commands>
