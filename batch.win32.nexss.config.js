@@ -10,16 +10,16 @@ languageConfig.interactiveShell = "cmd";
 languageConfig.builders = {};
 languageConfig.compilers = {
   node: {
-    install: "instaled",
+    install: "installed",
     command: "cmd",
-    args: "cmd /c <file>",
-    help: ``
-  }
+    args: "/c <file>",
+    help: ``,
+  },
 };
 languageConfig.errors = require("./nexss.batch.errors");
 languageConfig.languagePackageManagers = {
   bat: {},
-  else: ""
+  else: "",
 };
 
 module.exports = languageConfig;
